@@ -1,0 +1,29 @@
+Pokemon's description: 
+
+ Name:"Bulbasaur"
+ Class:"Grass"
+ HP:34
+ Attack:304
+ Defense:34
+ Speed:45
+ Special Attack:23
+ Special Defense:76
+
+ Name:"Squirtle"
+ Class:"Water"
+ HP:100
+ Attack:36
+ Defense:45
+ Speed:65
+ Special Attack:98
+ Special Defense:54
+
+ Name:"Charmander"
+ Class:"Fire"
+ HP:345
+ Attack:543
+ Defense:43
+ Speed:555
+ Special Attack:56
+ Special Defense:132
+
